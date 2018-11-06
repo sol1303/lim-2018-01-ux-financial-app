@@ -57,8 +57,4 @@ Resumen de resultados:
 
 ¿Por qué su audiencia está separada en los siguientes segmentos? ¿Cuáles son algunos diferenciadores de alto nivel entre cada segmento? Sus parámetros de segmentación pueden basarse en: datos demográficos, psicográficos, geografía, comportamiento de uso, niveles de participación o cualquier otro criterio específico de su producto, servicio o industria. ¿Cómo se diferencia cada segmento y por qué es necesario orientar cada uno de ellos?
 
-
-
- 
- 
-
+ ![user persona](https://user-images.githubusercontent.com/38984233/48101708-ffd22780-e1f5-11e8-9253-3cd38814c25f.PNG)
