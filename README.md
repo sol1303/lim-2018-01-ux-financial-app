@@ -64,6 +64,7 @@ links, encontrarán:
 - [Landing Page](http://tus-finanzas.pagedemo.co) inicial del producto
 
 ## Objetivos de aprendizaje
+![preview app de finanzas](https://github.com/sol1303/lim-2018-01-ux-financial-app/files/2554325/Analisis.Competitivo.pdf)
 
 El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
 un producto ya existente. Muchas de ustedes terminarán trabajando en productos
