@@ -48,7 +48,7 @@ Manager del equipo les brinda el contexto:
   Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
   próximas dos semanas, entendamos ese punto también.”
 
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+![preview app de finanzas](https://github.com/sol1303/lim-2018-01-ux-financial-app/files/2554325/Analisis.Competitivo.pdf)
 
 ### Recursos
 
