@@ -58,3 +58,14 @@ Resumen de resultados:
 ¿Por qué su audiencia está separada en los siguientes segmentos? ¿Cuáles son algunos diferenciadores de alto nivel entre cada segmento? Sus parámetros de segmentación pueden basarse en: datos demográficos, psicográficos, geografía, comportamiento de uso, niveles de participación o cualquier otro criterio específico de su producto, servicio o industria. ¿Cómo se diferencia cada segmento y por qué es necesario orientar cada uno de ellos?
 
  ![user persona](https://user-images.githubusercontent.com/38984233/48101708-ffd22780-e1f5-11e8-9253-3cd38814c25f.PNG)
+ 
+ 
+ ## Prototipos
+ 
+ Prototipo navegable testeado
+ Este prototipo fue testeado con 3 usuarios, los cambios que se le hicieron fue dar la opción que el ingreso no solo por huella digital y que las tranferencias de una cuenta a la cuenta de ahorros se pueda hacer a traves de ese medio; también que se pueda hacer un ahorro por redondeo automatico. 
+Con respecto a lo visual y como generar metas de ahorro no se actualizo al igual que el flujo que solo aumento 
+ [Prototipo navegable](https://www.figma.com/proto/ZH5sQ5i1lc5jH3NaUHvbbc/proyecto-2-banca-ACTUALIZADO?node-id=0%3A1&viewport=335%2C120%2C0.0625&scaling=contain)
+ 
+ Prototipo navegable final testeado
+  [Prototipo navegable](https://marvelapp.com/36e7de5)
