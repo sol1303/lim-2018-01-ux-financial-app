@@ -65,7 +65,11 @@ Resumen de resultados:
  Prototipo navegable testeado
  Este prototipo fue testeado con 3 usuarios, los cambios que se le hicieron fue dar la opción que el ingreso no solo por huella digital y que las tranferencias de una cuenta a la cuenta de ahorros se pueda hacer a traves de ese medio; también que se pueda hacer un ahorro por redondeo automatico. 
 Con respecto a lo visual y como generar metas de ahorro no se actualizo al igual que el flujo que solo aumento 
- [Prototipo navegable](https://www.figma.com/proto/ZH5sQ5i1lc5jH3NaUHvbbc/proyecto-2-banca-ACTUALIZADO?node-id=0%3A1&viewport=335%2C120%2C0.0625&scaling=contain)
+
+[Prototipo navegable](https://www.figma.com/proto/ZH5sQ5i1lc5jH3NaUHvbbc/proyecto-2-banca-ACTUALIZADO?node-id=0%3A1&viewport=335%2C120%2C0.0625&scaling=contain)
  
  Prototipo navegable final testeado
+ Con este prototipo me arriesgue un poco más al cambiar no solo el flujo sino también colores y gráficas.
+Esto porque en entrevistas y testeos con usuarios mencionaban no ahorrar para diferentes metas al mismo tiempo sino algunos simplemente para futuro y otros dependiendo del la meta podian cambiarla o aumentarla para adaptarla a sus necesidades en ese momento por eso se le agrego la opción de un wishlist donde puedan tener sus deseos para futuro sin que eso intervenga en su método de ahorro.
+
   [Prototipo navegable](https://marvelapp.com/36e7de5)
